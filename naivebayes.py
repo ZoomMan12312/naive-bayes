@@ -1,6 +1,6 @@
 import pandas as pd
-from matplotlib import pyplot as plt
-from matplotlib.patches import Ellipse
+#from matplotlib import pyplot as plt
+#from matplotlib.patches import Ellipse
 import math
 
 class NB():
