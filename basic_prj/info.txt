@@ -1,2 +1,2 @@
 used the classifier on a dataset from kaggle, which i renamed data.csv.
-dataset link: https://www.kaggle.com/devprabal/bmi-prediction-of-health-status
+dataset link: https://www.kaggle.com/yersever/500-person-gender-height-weight-bodymassindex
